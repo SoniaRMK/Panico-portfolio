@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Panico-portfolio/static/css/main.135e7ebf.css",
+    "main.js": "/Panico-portfolio/static/js/main.7455de13.js",
+    "static/js/787.44f62004.chunk.js": "/Panico-portfolio/static/js/787.44f62004.chunk.js",
+    "static/media/parksandpages.png": "/Panico-portfolio/static/media/parksandpages.727c2927250abc50c29c.png",
+    "static/media/tarotimg.png": "/Panico-portfolio/static/media/tarotimg.feb35ca6d2c60e0706af.png",
+    "static/media/profilepic.jpeg": "/Panico-portfolio/static/media/profilepic.bae13bd8b568003c8003.jpeg",
+    "static/media/resumePDF.pdf": "/Panico-portfolio/static/media/resumePDF.4627aceebb249735151d.pdf",
+    "static/media/weatherpic.png": "/Panico-portfolio/static/media/weatherpic.2a5060465d9fef6726c3.png",
+    "static/media/playlistpic.png": "/Panico-portfolio/static/media/playlistpic.261358db7a35791a267e.png",
+    "static/media/usfbadge.png": "/Panico-portfolio/static/media/usfbadge.84d7e14b97bd4cdaafa1.png",
+    "static/media/badgepicnobg.png": "/Panico-portfolio/static/media/badgepicnobg.37b92deb0fb495cc35e5.png",
+    "index.html": "/Panico-portfolio/index.html",
+    "main.135e7ebf.css.map": "/Panico-portfolio/static/css/main.135e7ebf.css.map",
+    "main.7455de13.js.map": "/Panico-portfolio/static/js/main.7455de13.js.map",
+    "787.44f62004.chunk.js.map": "/Panico-portfolio/static/js/787.44f62004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.135e7ebf.css",
+    "static/js/main.7455de13.js"
+  ]
+}
